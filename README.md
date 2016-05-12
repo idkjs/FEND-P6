@@ -1,6 +1,6 @@
 # Project Overview
 
-This is the submission for the Feed Reader Testing Project - P6 in the Front-End Web Developer Nanodegree Program
+This is the submission for the Feed Reader Testing Project - P6 in the <a href='https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001'>Front-End Web Developer Nanodegree Program</a>
 
 To run the tests, download this repository, open the index.html file in your browser. The page should load with tests results at the bottom of the screen.
 
